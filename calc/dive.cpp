@@ -2,5 +2,6 @@
 
 int dive(int x, int y)
 {
-	return 0;
+	// dev/c
+	return x / y;
 }
