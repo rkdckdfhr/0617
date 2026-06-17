@@ -1,6 +1,6 @@
 #include "add.h"
 
 int add(int x, int y)
-{
-	return 0;
+{	//dev/a - add.cpp modiffy
+	return x+y;
 }
